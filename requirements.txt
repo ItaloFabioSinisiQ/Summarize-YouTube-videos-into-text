@@ -1,0 +1,4 @@
+google-generativeai==0.4.0
+youtube-transcript-api==0.4.3
+IPython==7.34.0
+dataclasses==0.6  # Solo es necesario si usas Python 3.6 o anterior, en versiones más recientes es parte de Python
